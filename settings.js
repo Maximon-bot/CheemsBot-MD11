@@ -16,7 +16,7 @@ global.sessionid ='ur session id'
 //owmner v card
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Nigeria, Lagos, Satellite Town" //ur location
 
 //new
 global.botname = '𝐒𝐇𝐀𝐃𝐎𝐖-𝐌𝐃' //ur bot name
@@ -30,7 +30,7 @@ global.botscript = 'https://github.com/Maximon-bot/CheemsBot-MD11' //script link
 global.packname = "𝚰 𝚫𝚳"
 global.author = "۝𝐒𝚮𝚫𝐃𝚯𝐖۝"
 global.creator = "2349064620494@s.whatsapp.net"
-global.xprefix = '.'
+global.xprefix = ':'
 global.premium = ["2349064620494"] // Premium User
 global.hituet = 0
 
